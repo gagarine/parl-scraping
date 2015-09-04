@@ -1,4 +1,4 @@
-# Parl-Scraping
+# Parl-Scraping - Swiss parliament minutes scraping
 ## Context
 
 This is a [Opendata.ch Elections Hackdays](http://make.opendata.ch/elections) project.  
